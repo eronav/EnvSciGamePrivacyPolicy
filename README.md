@@ -1,5 +1,5 @@
 # EnvSciGamePrivacyPolicy
-Artifacts for CB Android Game
+Artifacts for Endangered Android Game
 
 <h2>Privacy Policy</h2>
 <p>Your privacy is important to us. It is CyberBytz's policy to respect your privacy and as such our app, Endangered, does not gather any personal information. And since we do not gather any information, we do not store nor share any data about you.</p>
